@@ -5,7 +5,10 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**",
-	  "*/*.gif"
+      "*/*.gif"
     ]
+  },
+  "database": {
+    "rules": "database.rules.json"
   }
 }
